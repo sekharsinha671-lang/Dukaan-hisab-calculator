@@ -1,0 +1,6 @@
+{
+  "name": "Dukaan Hisab Calculator",
+  "description": "Smart, accurate Indian shopkeeper calculator for instant Price-to-Quantity and Quantity-to-Price conversions across weight, length, volume, and counting units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

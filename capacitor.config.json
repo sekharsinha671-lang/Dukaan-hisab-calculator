@@ -1,0 +1,14 @@
+{
+  "appId": "com.dukaanhisab.calculator",
+  "appName": "Dukaan Hisab Calculator",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
